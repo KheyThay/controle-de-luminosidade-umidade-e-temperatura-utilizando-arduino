@@ -16,7 +16,7 @@ Este é um projeto de sistema de monitoramento de ambiente desenvolvido utilizan
 - Resistores
 - Protoboard
 - Jumpers
-- 
+
 ## Montagem do circuito
 
 - Conectar o fotoresistor (LDR) ao pino A1 do Arduino.
